@@ -1,0 +1,5 @@
+interface:
+  display_name: "Research Wiki Motion"
+  short_description: "Semantic graph motion guardrails"
+  brand_color: "#2563EB"
+  default_prompt: "Use $research-wiki-motion to design or review semantic graph motion for a research-wiki capture shot."

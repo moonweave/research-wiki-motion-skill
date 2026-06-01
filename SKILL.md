@@ -6,6 +6,7 @@ description: |
   node/link motion, Instagram demo shots, or visual polish that must stay
   meaningful and restrained. Pair with anneal when comparing multiple motion
   directions before implementation.
+license: MIT
 ---
 
 # Research Wiki Motion

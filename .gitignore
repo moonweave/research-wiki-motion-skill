@@ -1,3 +1,16 @@
 .DS_Store
 .ruff_cache/
 node_modules/
+
+# Secrets / local env (security hardening 2026-06-03)
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+credentials.json
